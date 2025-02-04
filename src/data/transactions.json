@@ -1,0 +1,77 @@
+{
+  "cardLimit": 1500,
+  "cardBalance": 17.30,
+  "transactions": [
+    {
+      "id": 1,
+      "type": "Credit",
+      "amount": 14.06,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2024-04-13",
+      "pending": true,
+      "authorizedUser": "Diana",
+      "location": null,
+      "percentage": "3%"
+    },
+    {
+      "id": 2,
+      "type": "Payment",
+      "amount": 174.00,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2024-04-09",
+      "pending": false,
+      "location": null
+    },
+    {
+      "id": 3,
+      "type": "Credit",
+      "amount": 3.24,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2024-04-09",
+      "authorizedUser": "Diana",
+      "location": null,
+      "percentage": "3%"
+    },
+    {
+      "id": 4,
+      "type": "Payment",
+      "amount": 99.71,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2024-04-06",
+      "location": null
+    },
+    {
+      "id": 5,
+      "type": "Payment",
+      "amount": 73.58,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank National Association",
+      "date": "2024-04-08",
+      "location": null
+    },
+    {
+      "id": 6,
+      "type": "Credit",
+      "amount": 21.61,
+      "name": "IKEA",
+      "description": "Home furnishings",
+      "date": "2022-10-01",
+      "location": "Round Rock, TX",
+      "percentage": "2%"
+    },
+    {
+      "id": 7,
+      "type": "Credit",
+      "amount": 73.58,
+      "name": "Target",
+      "description": "Retail purchase",
+      "date": "2022-10-01",
+      "location": "Cedar Park, TX",
+      "percentage": "2%"
+    }
+  ]
+}
